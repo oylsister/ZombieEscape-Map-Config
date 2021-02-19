@@ -1,0 +1,27 @@
+math_counter
+{
+	"0"
+	{
+		"Type"          "breakable"
+		"BreakableName" "lvl1_boss_health"
+		"CustomText"    "Guy"
+	}
+	"1"
+	{
+		"Type"          "breakable"
+		"BreakableName" "lvl2_boss_health"
+		"CustomText"    "Halloween Monster"
+	}
+	"2"
+	{
+		"Type"          "breakable"
+		"BreakableName" "lvl3_boss_health"
+		"CustomText"    "Pedo Bear"
+	}
+	"3"
+	{
+		"Type"          "breakable"
+		"BreakableName" "lvl3_boss_health02"
+		"CustomText"    "Commie Teddy"
+	}
+}

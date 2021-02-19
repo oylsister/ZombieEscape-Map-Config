@@ -1,0 +1,10 @@
+"math_counter"
+{
+	"0"
+	{
+		"Type"			"breakable"
+		"BreakableName"		"boss_physbox"
+		"CustomText"		"The Light"
+		"CustomTextCN"		"The Light"
+	}
+}
